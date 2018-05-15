@@ -6,7 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "prepublish": "node scripts/build-deps.js"
+    "preinstall": "npm install rimraf; node scripts/build-deps.js"
   },
   "dependencies": {
     "assert": "^1.4.1",
@@ -57,7 +57,7 @@
     "util"
   ],
   "devDependencies": {
-    "rimraf": "^2.5.2"
+    "rimraf": "^2.6.2"
   },
   "repository": {
     "type": "git",
