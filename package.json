@@ -30,7 +30,7 @@
     "timers-browserify": "^2.0.10",
     "tty-browserify": "0.0.1",
     "url": "^0.11.0",
-    "util": "^0.11.1",
+    "util": "^0.12.2",
     "vm-browserify": "git+https://github.com/brucejo75/vm-browserify.git#FAST"
   },
   "bundledDependencies": [
