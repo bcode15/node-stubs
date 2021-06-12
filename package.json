@@ -31,8 +31,7 @@
     "timers-browserify": "^2.0.10",
     "tty-browserify": "0.0.1",
     "url": "^0.11.0",
-    "util": "^0.11.1",
-    "vm-browserify": "^1.1.0"
+    "util": "^0.10.3"
   },
   "bundledDependencies": [
     "assert",
@@ -56,11 +55,10 @@
     "timers-browserify",
     "tty-browserify",
     "url",
-    "util",
-    "vm-browserify"
+    "util"
   ],
   "devDependencies": {
-    "rimraf": "^2.5.2"
+    "rimraf": "^2.6.2"
   },
   "repository": {
     "type": "git",
