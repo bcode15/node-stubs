@@ -8,9 +8,6 @@
   "scripts": {
     "prepare": "node scripts/build-deps.js"
   },
-  "workspaces": [
-    "../modules/vm-browserify"
-  ],
   "dependencies": {
     "assert": "^2.0.0",
     "browserify-zlib": "^0.2.0",
